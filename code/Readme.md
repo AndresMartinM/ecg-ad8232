@@ -7,7 +7,7 @@ https://youtu.be/RkLuvv_fR6o?si=kqQx8UOlzGWsqdjM
 
 Sin embargo, igualmente les comparto mi trabajo con el módulo.
 
-```arduino
+```c
 // boceto de codigo para ecg AD8232 con debounce basico
 // es importante que los electrodos esten bien pegados al cuerpo, con mucha presion
 // GND al GND
